@@ -1,6 +1,8 @@
 # Entity-Resolution-On-Text-Similarity
 In this project, we need to find out commercial products listed on Google that refer to the same entity across Amazon by comparing the similarity. This problem is called Entity Resolution.
 
+## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/Entity-Resolution-On-Text-Similarity/blob/master/PySpark%20-%20Entity%20Resolution.ipynb)
+
 ## Project Highlights
  * Applied powerful and scalable text analysis techniques.
  * Perform entity resolution across two datasets of commercial products.
